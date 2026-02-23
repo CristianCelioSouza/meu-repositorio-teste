@@ -7,3 +7,5 @@ Obsjetivos da Aula:
 2. Clonar um repositorio remoto para o nosso computador local;
 
 3. fazer Alterações >> Adcionar | Comitar | Enviar arquivo;
+
+realizando alterações de teste para nosso repositório
